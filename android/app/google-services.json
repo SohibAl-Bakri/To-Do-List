@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "409984945180",
+    "project_id": "to-do-list-eba97",
+    "storage_bucket": "to-do-list-eba97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409984945180:android:b68a29a54647096b0a23d9",
+        "android_client_info": {
+          "package_name": "com.example.sefl_study_lab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409984945180-31ifvsu6nctk240lhefssbqlids0de67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0vIzs64Y23N7AdyRIiRzPXouVoZX4QSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409984945180-31ifvsu6nctk240lhefssbqlids0de67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
